@@ -1,4 +1,4 @@
-### This is a Flutter package for integrating Nagad's online payment gateway in Flutter app with ease.
+# This is a Flutter package for integrating Nagad's online payment gateway in Flutter app with ease.
 
 
 ### Installation
