@@ -1,0 +1,6 @@
+library nagad;
+
+
+class Nagad  {
+
+}

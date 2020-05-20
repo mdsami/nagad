@@ -1,0 +1,19 @@
+name: nagad
+description: Nagad Flutter package.
+version: 0.0.1
+authors:
+  - Md Sami <mdsami.diu@gmail.com>
+ 
+homepage: https://github.com/mdsami/nagad
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
